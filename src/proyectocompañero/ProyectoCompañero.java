@@ -17,6 +17,7 @@ public class ProyectoCompañero {
     public static void main(String[] args) {
         System.out.println("hola compañero");
         System.out.println("Cambio");
+        System.out.println("Cambio 2");
     }
     
 }
